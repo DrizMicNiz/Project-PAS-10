@@ -11,8 +11,9 @@ Aplikasi ini memudahkan pengguna untuk mengonversi nilai antar satuan dengan cep
 ## 🖥️ Cara Menggunakan
 1. Pilih kategori satuan (Jarak, Volume, Massa, Suhu).
 2. Masukkan nilai yang ingin dikonversi.
+
 3. Pilih satuan asal dan satuan tujuan.
 4. Klik tombol **Konversi** untuk melihat hasilnya.
 
 ## Screenshot
-![Screenshot](Ex.png)
+![Ex](https://github.com/user-attachments/assets/3a4d5738-8222-4443-93e1-33432ed446e2)
